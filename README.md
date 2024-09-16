@@ -1,7 +1,7 @@
 # EXNO2DS
 
-## NAME:ABINAYA A
-## REG.NO: 212223040003
+## NAME: Santhosh K
+## REG.NO: 212223100050
 
 # AIM:
 To perform Exploratory Data Analysis on the given data set.
